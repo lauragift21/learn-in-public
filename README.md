@@ -22,6 +22,10 @@ I got inspired by [Tania Rascia](https://www.taniarascia.com/learn) Learn in Pub
 - [ ] GraphQL 
 - [ ] Serverless Computing
 
+## DevOps 
+
+## Backend
+
 ## Computer Science
 
 ### Algorithm
