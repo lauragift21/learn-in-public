@@ -8,6 +8,9 @@ I got inspired by [Tania Rascia](https://www.taniarascia.com/learn) Learn in Pub
 - [ ] Closures
 - [ ] Async & Await
 - [ ] Web Share API
+- [ ] Functional Programming
+- [ ] TypeScript
+- [ ] Object Oriented Programming
 
 ## CSS
 - [ ] CSS Specificity
