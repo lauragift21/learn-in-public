@@ -11,6 +11,7 @@ I got inspired by [Tania Rascia](https://www.taniarascia.com/learn) Learn in Pub
 - [ ] Functional Programming
 - [ ] TypeScript
 - [ ] Object Oriented Programming
+- [ ] SOLID Principles
 
 ## CSS
 - [ ] CSS Specificity
@@ -34,5 +35,6 @@ I got inspired by [Tania Rascia](https://www.taniarascia.com/learn) Learn in Pub
 ### Algorithm
 
 ### Data Structure
-
+- [ ] Arrays
+- [ ] Link Trees
 
